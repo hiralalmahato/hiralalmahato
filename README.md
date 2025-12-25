@@ -15,8 +15,8 @@ I enjoy building projects, learning new technologies, and improving my coding sk
 ## 🛠️ Technical Skills
 
 **Programming Languages**
-- C++
 - Java
+- Python
 - PHP
 
 **Web Development**
@@ -31,6 +31,8 @@ I enjoy building projects, learning new technologies, and improving my coding sk
 
 **Tools & Platforms**
 - Git & GitHub
+- LeetCode
+- GeeksforGeeks
 - VS Code
 - Linux (Basics)
 
