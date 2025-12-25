@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi 👋 I'm Hiralal Mahato
 
-<!--
-**hiralalmahato/hiralalmahato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science & Engineering (CSE) Student  
+💻 Full Stack Developer (Learning & Building)  
+🎯 Goal: Campus Placement in a Good Tech Company  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a passionate B.Tech CSE student with a strong interest in Full Stack Development and problem-solving.  
+I enjoy building projects, learning new technologies, and improving my coding skills to become industry-ready for placements.
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming Languages**
+- C++
+- Java
+- PHP
+
+**Web Development**
+- HTML
+- CSS
+- JavaScript
+- Node.js
+
+**Databases**
+- MySQL
+- MongoDB
+
+**Tools & Platforms**
+- Git & GitHub
+- VS Code
+- Linux (Basics)
+
+---
+
+## 📌 Projects
+- **Student Management System** (Java + MySQL)
+- **Academic Tracker Database** (MySQL)
+- **Full Stack Mini Projects**
+- **DSA Practice** (LeetCode / GeeksforGeeks)
+
+👉 Check my repositories below for project details.
+
+---
+
+## 🌱 Currently Learning
+- Data Structures & Algorithms
+- Backend Development
+- Full Stack Project Development
+- Database Optimization
+
+---
+
+## 📊 GitHub Stats
+![Hiralal's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiralalmahato&show_icons=true&theme=default)
+
+---
+
+## 🤝 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/hiralal-mahato
+- 📧 Email: mahatoh360@gmail.com
+
+---
+
+⭐ *Always eager to learn, build, and grow as a software engineer.
