@@ -17,7 +17,6 @@ I enjoy building projects, learning new technologies, and improving my coding sk
 **Programming Languages**
 - Java
 - Python
-- PHP
 
 **Web Development**
 - HTML
@@ -39,7 +38,7 @@ I enjoy building projects, learning new technologies, and improving my coding sk
 ---
 
 ## 📌 Projects
-- **Student Management System** (Java + MySQL)
+- **Student Management System** (React + Node.js + Express.js + MongoDB)
 - **Academic Tracker Database** (MySQL)
 - **Full Stack Mini Projects**
 - **DSA Practice** (LeetCode / GeeksforGeeks)
